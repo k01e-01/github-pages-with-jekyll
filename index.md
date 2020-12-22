@@ -1,3 +1,3 @@
-# Welcome to my blog
+# this is a blog
 
-I'm glad you are here. I plan to talk about ...
+hello. you are here why? go [here](https://www.youtube.com/) instead.
